@@ -5,6 +5,8 @@ html {
 body {
     height: 100%;
     
+    
+    
 }
 a {
     text-decoration: none;
@@ -16,4 +18,8 @@ a {
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.thumbnailsnial{
+    
+    
 }
